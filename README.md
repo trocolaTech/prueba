@@ -1,2 +1,2 @@
 # Primer ejemplo de organización
-**Autorr** : Iván Lorenzo Ruiz
+**Autor** : Iván Lorenzo Ruiz
